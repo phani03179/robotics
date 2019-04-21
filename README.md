@@ -5,4 +5,5 @@ of robotics
 Covering vision, locomotion
 associative AI
 gcp for storing data
-material understanding 
+material understanding. 
+Use of GANs fr cross validation.
