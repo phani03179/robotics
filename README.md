@@ -6,4 +6,4 @@ Covering vision, locomotion
 associative AI
 gcp for storing data
 material understanding. 
-Use of GANs fr cross validation.
+Use of GANs for cross validation.
