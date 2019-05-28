@@ -10,3 +10,4 @@ motion tracking,
 3D vision & interpretation.
 Segmentation,
 Use of GANs for cross validation.
+locomotion 
