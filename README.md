@@ -13,3 +13,5 @@ Use of GANs for cross validation.
 locomotion 
 
 Scene reasoning and summoning agents
+
+Understanding object overlays with general intelligence 
