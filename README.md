@@ -17,3 +17,5 @@ Scene reasoning and summoning agents
 Understanding object overlays with general intelligence 
 
 Generating emotions as user reflection 
+
+semantic separation of objects
