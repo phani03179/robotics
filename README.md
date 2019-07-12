@@ -23,3 +23,5 @@ semantic separation of objects
 Anticipatory motion detection
 
 Regulating user movement 
+
+Creating preface user emotion
