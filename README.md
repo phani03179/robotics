@@ -21,3 +21,5 @@ Generating emotions as user reflection
 semantic separation of objects
 
 Anticipatory motion detection
+
+Regulating user movement 
