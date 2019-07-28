@@ -29,3 +29,5 @@ Creating preface user emotion
 Silent acknowledgement
 
 Autocompleting words
+
+Utterance prediction
