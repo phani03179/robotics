@@ -33,3 +33,5 @@ Autocompleting words
 Utterance prediction
 
 Motivational ai engine
+
+Periphery vision
