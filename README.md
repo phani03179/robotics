@@ -35,3 +35,5 @@ Utterance prediction
 Motivational ai engine
 
 Periphery vision
+
+Emotional understanding and response 
