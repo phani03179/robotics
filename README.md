@@ -36,4 +36,6 @@ Motivational ai engine
 
 Periphery vision
 
-Emotional understanding and response 
+Emotional understanding and response
+
+ReCreating scene
