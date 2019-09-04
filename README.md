@@ -39,3 +39,5 @@ Periphery vision
 Emotional understanding and response
 
 ReCreating scene
+
+Cultural sensibilities 
