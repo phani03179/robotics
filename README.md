@@ -41,3 +41,5 @@ Emotional understanding and response
 ReCreating scene
 
 Cultural sensibilities 
+
+Filling sentences for words
