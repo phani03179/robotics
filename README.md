@@ -45,3 +45,5 @@ Cultural sensibilities
 Filling sentences for words
 
 Robotic needs understanding
+
+Fatigue expression
