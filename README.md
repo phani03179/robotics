@@ -49,3 +49,5 @@ Robotic needs understanding
 Fatigue expression
 
 Echo voice
+
+Multiplicative tasks
