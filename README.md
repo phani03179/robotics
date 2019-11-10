@@ -55,3 +55,5 @@ Multiplicative tasks
 Symmetric responses
 
 Presentation mode
+
+Multimodal reception
