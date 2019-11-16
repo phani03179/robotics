@@ -57,3 +57,5 @@ Symmetric responses
 Presentation mode
 
 Multimodal reception
+
+Receptor-generator link up
