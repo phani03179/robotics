@@ -59,3 +59,5 @@ Presentation mode
 Multimodal reception
 
 Receptor-generator link up
+
+Talking receptor generator 
