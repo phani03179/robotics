@@ -63,3 +63,5 @@ Receptor-generator link up
 Talking receptor generator 
 
 Served with kssi
+
+Serving schedule with rate
