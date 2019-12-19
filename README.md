@@ -69,3 +69,5 @@ Serving schedule with rate
 No action work
 
 Role play
+
+Multi media sequence hint
