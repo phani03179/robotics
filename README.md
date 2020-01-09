@@ -71,3 +71,5 @@ No action work
 Role play
 
 Multi media sequence hint
+
+Wellness detection
