@@ -77,3 +77,5 @@ Wellness detection
 Voice shape transformation 
 
 Time based deviation of behavior
+
+Understanding symmetry 
