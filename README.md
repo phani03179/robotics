@@ -81,3 +81,5 @@ Time based deviation of behavior
 Understanding symmetry 
 
 Imagining alternate story for Visual sequences 
+
+Uninviting attendees based on learning
