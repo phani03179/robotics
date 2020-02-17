@@ -83,3 +83,6 @@ Understanding symmetry
 Imagining alternate story for Visual sequences 
 
 Uninviting attendees based on learning
+
+glass reflection understanding
+
