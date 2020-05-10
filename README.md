@@ -111,3 +111,5 @@ Artificial Consciousness
 Understanding weather phenomena 
 
 Reasoning cause effect
+
+Understanding orchestra
