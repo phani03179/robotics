@@ -117,3 +117,5 @@ Understanding orchestra
 Initiating the movement
 
 Resultant compensatory behaviour 
+
+Defense mechanisms 
