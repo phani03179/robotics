@@ -115,3 +115,5 @@ Reasoning cause effect
 Understanding orchestra
 
 Initiating the movement
+
+Resultant compensatory behaviour 
