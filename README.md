@@ -119,3 +119,5 @@ Initiating the movement
 Resultant compensatory behaviour 
 
 Defense mechanisms 
+
+Do nothing scenario planning 
