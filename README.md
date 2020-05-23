@@ -121,3 +121,5 @@ Resultant compensatory behaviour
 Defense mechanisms 
 
 Do nothing scenario planning 
+
+Non-verbal signal understanding 
