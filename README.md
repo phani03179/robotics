@@ -123,3 +123,5 @@ Defense mechanisms
 Do nothing scenario planning 
 
 Non-verbal signal understanding 
+
+Member relation understanding 
