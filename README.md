@@ -131,3 +131,5 @@ Rephrase corrections
 Movement optimization 
 
 Calibrating equipment 
+
+Persona liked, dislikes, complementary 
