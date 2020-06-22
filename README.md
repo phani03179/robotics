@@ -133,3 +133,5 @@ Movement optimization
 Calibrating equipment 
 
 Persona liked, dislikes, complementary 
+
+Mastering but playing like user
