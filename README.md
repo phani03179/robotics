@@ -118,6 +118,8 @@ Initiating the movement
 
 Resultant compensatory behaviour 
 
+Check news and understand 
+
 Defense mechanisms 
 
 Do nothing scenario planning 
