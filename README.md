@@ -139,3 +139,5 @@ Persona liked, dislikes, complementary
 Mastering but playing like user
 
 Children psychology management 
+
+Understanding religion 
