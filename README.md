@@ -143,3 +143,5 @@ Children psychology management
 Understanding religion 
 
 Read backwards
+
+Understand entity interrelation
