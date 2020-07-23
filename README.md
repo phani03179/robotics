@@ -145,3 +145,5 @@ Understanding religion
 Read backwards
 
 Understand entity interrelation
+
+Humour level setting 
