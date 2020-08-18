@@ -149,3 +149,5 @@ Understand entity interrelation
 Humour level setting 
 
 Recipes ingredients understanding 
+
+Tuning radio to station
