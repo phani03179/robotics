@@ -151,3 +151,5 @@ Humour level setting
 Recipes ingredients understanding 
 
 Tuning radio to station
+
+Conversational intelligence 
