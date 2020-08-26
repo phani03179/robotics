@@ -153,3 +153,5 @@ Recipes ingredients understanding
 Tuning radio to station
 
 Conversational intelligence 
+
+Handling high pressure situations 
