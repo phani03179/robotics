@@ -155,3 +155,5 @@ Tuning radio to station
 Conversational intelligence 
 
 Handling high pressure situations 
+
+Cobotic finding
