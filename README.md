@@ -157,3 +157,5 @@ Conversational intelligence
 Handling high pressure situations 
 
 Cobotic finding
+
+Understanding life related terms
