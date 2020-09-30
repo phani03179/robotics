@@ -159,3 +159,5 @@ Handling high pressure situations
 Cobotic finding
 
 Understanding life related terms
+
+Kinematics
