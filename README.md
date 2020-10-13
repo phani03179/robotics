@@ -161,3 +161,5 @@ Cobotic finding
 Understanding life related terms
 
 Kinematics
+
+Color based changes - mindstorms
