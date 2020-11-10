@@ -168,3 +168,5 @@ sensing light conditions
 Understanding weather conditions 
 
 Jargon understanding 
+
+Scheduling utterances 
