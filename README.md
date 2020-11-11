@@ -170,3 +170,5 @@ Understanding weather conditions
 Jargon understanding 
 
 Scheduling utterances 
+
+Understanding games by location 
