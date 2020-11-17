@@ -172,3 +172,5 @@ Jargon understanding
 Scheduling utterances 
 
 Understanding games by location 
+
+Insanity recognition 
