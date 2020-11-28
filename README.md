@@ -152,6 +152,7 @@ Recipes ingredients understanding
 
 Tuning radio to station
 
+
 Conversational intelligence 
 
 Handling high pressure situations 
@@ -174,3 +175,5 @@ Scheduling utterances
 Understanding games by location 
 
 Insanity recognition 
+
+Social brain
