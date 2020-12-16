@@ -34,6 +34,7 @@ Utterance prediction
 
 Motivational ai engine
 
+Combining audio and video with time interval
 Periphery vision
 
 Emotional understanding and response
@@ -180,3 +181,5 @@ Social brain
 Mythology and beliefs
 
 Using tools , chopstick, scissors 
+
+Combining audio, video with sparse time interval 
