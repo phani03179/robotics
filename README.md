@@ -187,3 +187,5 @@ Combining audio, video with sparse time interval
 Understanding human unclothing situations 
 
 Navitimer understanding 
+
+Rescript the command as per accepted principle 
