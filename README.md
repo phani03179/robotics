@@ -188,4 +188,6 @@ Understanding human unclothing situations
 
 Navitimer understanding 
 
-Rescript the command as per accepted principle 
+Rescript the command as per accepted principle
+
+Travel know how 
