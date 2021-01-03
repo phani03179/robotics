@@ -191,3 +191,5 @@ Navitimer understanding
 Rescript the command as per accepted principle
 
 Travel know how 
+
+Understanding scenario attire
