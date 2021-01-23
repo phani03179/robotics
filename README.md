@@ -195,3 +195,5 @@ Travel know how
 Understanding scenario attire
 
 Sports and games understanding 
+
+Understanding magical creatures 
