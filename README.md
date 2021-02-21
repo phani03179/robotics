@@ -197,3 +197,5 @@ Understanding scenario attire
 Sports and games understanding 
 
 Understanding magical creatures 
+
+Religious activity understanding 
