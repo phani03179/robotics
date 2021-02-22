@@ -190,6 +190,8 @@ Navitimer understanding
 
 Rescript the command as per accepted principle
 
+Recall previous incidents
+
 Travel know how 
 
 Understanding scenario attire
