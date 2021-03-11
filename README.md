@@ -203,3 +203,5 @@ Understanding magical creatures
 Religious activity understanding 
 
 Delivering msg at right time
+
+Extraterrestrial understanding 
