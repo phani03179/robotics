@@ -209,3 +209,5 @@ Extraterrestrial understanding
 Understanding famous sypried
 
 Priming effect on owner
+
+Framing effect creation
