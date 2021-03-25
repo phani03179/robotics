@@ -207,3 +207,5 @@ Delivering msg at right time
 Extraterrestrial understanding 
 
 Understanding famous sypried
+
+Priming effect on owner
