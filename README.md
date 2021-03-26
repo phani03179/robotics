@@ -34,6 +34,7 @@ Utterance prediction
 
 Motivational ai engine
 
+Fast and slow thinking
 Combining audio and video with time interval
 Periphery vision
 
