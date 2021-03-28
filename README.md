@@ -212,3 +212,5 @@ Understanding famous sypried
 Priming effect on owner
 
 Framing effect creation
+
+Understanding factory procedures
