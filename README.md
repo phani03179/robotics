@@ -214,3 +214,5 @@ Priming effect on owner
 Framing effect creation
 
 Understanding factory procedures
+
+Consoling baby 
