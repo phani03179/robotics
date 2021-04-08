@@ -216,3 +216,5 @@ Framing effect creation
 Understanding factory procedures
 
 Consoling baby 
+
+Baby cry type understanding 
