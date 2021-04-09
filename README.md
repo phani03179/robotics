@@ -218,3 +218,5 @@ Understanding factory procedures
 Consoling baby 
 
 Baby cry type understanding 
+
+Master Anger management 
