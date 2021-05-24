@@ -221,3 +221,5 @@ Baby cry type understanding
 
 Master Anger management
 Conduct conference 
+
+Recognizition of known faces and sounds
