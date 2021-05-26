@@ -223,3 +223,5 @@ Master Anger management
 Conduct conference 
 
 Recognizition of known faces and sounds
+
+Light Pattern recognition 
