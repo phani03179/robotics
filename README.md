@@ -225,3 +225,5 @@ Conduct conference
 Recognizition of known faces and sounds
 
 Light Pattern recognition 
+
+Curiosity 
