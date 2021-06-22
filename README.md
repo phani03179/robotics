@@ -227,3 +227,5 @@ Recognizition of known faces and sounds
 Light Pattern recognition 
 
 Curiosity 
+
+Learns opinion 
