@@ -229,3 +229,5 @@ Light Pattern recognition
 Curiosity 
 
 Learns opinion 
+
+Translate and execute 
