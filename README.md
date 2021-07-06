@@ -231,3 +231,5 @@ Curiosity
 Learns opinion 
 
 Translate and execute 
+
+Wishing with eyes
